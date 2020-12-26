@@ -1,2 +1,2 @@
 # joguimdaveia
-programa simples de ogo da velha e q guarda nome do ganhador em um arquivo txt
+programa simples de jogo da velha q guarda nome do ganhador em um arquivo txt
