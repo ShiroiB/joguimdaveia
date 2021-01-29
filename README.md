@@ -1,2 +1,2 @@
-# joguimdaveia
-programa simples de jogo da velha q guarda nome do ganhador em um arquivo txt
+# repositorio
+progrmas feitos no dev c++ e primeiras versoes
